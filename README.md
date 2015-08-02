@@ -1,6 +1,6 @@
 ![Candelabrum Icon](image/candelabrum.png)
 # Candelabrum
-[Kindlegen](http://www.amazon.com/gp/feature.html?docId=1000765211) is main tool that eBook developers have for translating ePub into Mobi files, but as a command-line tool, it can be unfriendly to new users.
+[Kindlegen](http://www.amazon.com/gp/feature.html?docId=1000765211) is the main tool that eBook developers have for translating ePub into Mobi files, but as a command-line tool, it can be unfriendly to new users.
 
 Candelabrum is a professional GUI wrapper for Kindlegen.  In the Candelabrum preferences, you configure the path to your Kindlegen executable, and then you can simply drag ePubs onto Candelabrum in your dock.  Awesome!
 
